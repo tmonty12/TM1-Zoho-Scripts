@@ -8,6 +8,3 @@ The zoho_data_pull script connects with the Zoho api and writes out records to a
 
 The zoho_api_update script compares an Update element to a Current element in a TM1 cube dimension, finds the updates that have been made to the records, sends an http request
 to the Zoho api to update the records and updates Current element to match the Update element.
-
-## Instructions
-
